@@ -113,3 +113,7 @@ dao子模块一般比较轻，只依赖数据库或者domain进行基本的数�
 
 ### 4.2 生产环境打包
 在web server主模块下，使用grails war命令进行打包
+
+## 5 参考
+[Grails测试](http://docs.grails.org/2.5.4/guide/testing.html)
+[Grails插件开发](http://docs.grails.org/2.5.4/guide/plugins.html)
